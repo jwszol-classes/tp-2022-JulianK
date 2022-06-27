@@ -4,4 +4,4 @@ symulacja działania windy
 
 ## Image of the project's window
 
-![Elevator!]("/winda.png" "Elevator")
+![Elevator!](https://ibb.co/dWTTkxf "Elevator")
