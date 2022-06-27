@@ -1,6 +1,6 @@
 # Projekt-Winda-JK
-H2 Prosta aplikacja WPF 
-H2 symulacja działania windy
+# Prosta aplikacja WPF 
+# symulacja działania windy
 
 ## Image of the project's window
 
