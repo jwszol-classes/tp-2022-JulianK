@@ -1,12 +1,12 @@
 # Projekt-Winda-JK
-Prosta aplikacja WPF 
-symulacja działania windy
+Simple Wpf aplication
+simulating elevator
 
 ## Image of the project's window
 
 ![Elevator!](https://i.postimg.cc/1z0sJgXC/Winda.png "Elevator")
 
-#Kod programu C#
+# C# Code
 ```C#
 using System;
 using System.Collections.Generic;
@@ -637,7 +637,7 @@ namespace WpfApp1
 }
 ```
 
-#Kod okna programu xaml
+# xaml code
 ```xaml
 <Window x:Class="WpfApp1.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
